@@ -17,6 +17,7 @@ html {
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
   background-color: #1b1919;
+  align-items: center;
 }
 
 h1,
@@ -63,9 +64,6 @@ ol {
   grid-area: result;
 }
 
-.content__details {
-  grid-area: content-details;
-}
 .result__video-container {
   display: flex;
   position: relative;
